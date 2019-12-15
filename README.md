@@ -1,2 +1,0 @@
-# SampleServ
-SampleServ
